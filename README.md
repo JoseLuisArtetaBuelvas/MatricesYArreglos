@@ -47,7 +47,7 @@ Ubicado en [`src/main/java/arreglos`](src/main/java/arreglos). Incluye:
 - Modificación: reemplazo de valores impares por cero y multiplicación de cada valor por su índice.
 - Búsqueda lineal de un valor dentro del arreglo.
 - Comparativa de sintaxis y diferencias entre lenguajes (estáticos vs. dinámicos, tipado
-  fuerte vs. débil).
+  fuerte vs. débil), explicada en la sustentación en video.
 
 ### 2. Matrices (Arreglos bidimensionales)
 

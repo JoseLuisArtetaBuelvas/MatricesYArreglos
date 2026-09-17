@@ -37,3 +37,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Notas de estudio (uso personal, no se suben al repo remoto) ###
+notas-estudio/
